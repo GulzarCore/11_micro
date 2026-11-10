@@ -1,0 +1,14 @@
+* mare chrorvu parse ,
+
+* ek lavel decide krvo pare ( mari job moto goal nathi ) security reliability , badhu magaj me hamaj pare ,
+
+* dua , shukar , istigfar ,darood.
+
+* 
+
+
+
+
+
+
+lets suppose company gives me a whole server access & give me whole responsibility , i know how to deploy scale , & just expose website , but i dont know security , & keeping whole situation in my hand , instead of security risks & reliability issues .
